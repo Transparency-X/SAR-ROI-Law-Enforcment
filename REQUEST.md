@@ -1,4 +1,4 @@
-Here’s the **updated and expanded Subject Access Request (SAR) letter** for Garda Síochána, now including **all visits to stations, arrests, in-person events/records, and all emails/letters sent or received by Garda officers**—regardless of station or location in the Republic of Ireland.
+Here’s the **final, comprehensive Subject Access Request (SAR) letter** for Garda Síochána, now including **all interactions with security companies (e.g., PhoneWatch) due to alarm triggers**, with details on **dispatch requests, timestamps, Garda attendance, and outcomes**.
 
 ---
 ---
@@ -30,6 +30,8 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
 
 ---
 
+---
+
 ### **1. All Personal Data Held About Me**
 - **All records, files, and documents** containing my personal data, including but not limited to:
   - **Incident reports** (e.g., crime reports, complaints, witness statements).
@@ -43,12 +45,16 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
 
 ---
 
+---
+
 ### **2. Names of All Garda Officers Involved**
 - **A complete list of all Garda officers** (including ranks, badge numbers, and stations/offices where applicable) who have:
   - Recorded information about me.
   - Interviewed me, cautioned me, or arrested me.
   - Processed, accessed, or shared my data.
   - Made decisions regarding my case (e.g., investigating officers, supervisors, or data protection officers).
+
+---
 
 ---
 
@@ -60,6 +66,7 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
   - **CCTV footage** from inside or outside the station during my visits (if applicable).
 
 ---
+---
 
 ### **4. All Arrests and Custody Records**
 - **Complete details of any and all arrests** involving me, including:
@@ -70,6 +77,8 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
   - **Any charges filed** or decisions made regarding my case.
 
 ---
+---
+
 ### **5. All In-Person Events or Records at Garda Stations/Offices**
 - **All records of in-person events** I was involved in at any Garda station or office in ROI, including:
   - **Identification parades** (if applicable).
@@ -78,6 +87,8 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
   - **Any other interactions** with Garda officers during visits or events.
 
 ---
+---
+
 ### **6. All Emails, Letters, and Correspondence**
 - **All emails, letters, faxes, or other correspondence** sent or received by **any Garda officer, station, or office** in the Republic of Ireland about me, including:
   - **Correspondence between Garda stations/offices** regarding my case.
@@ -86,22 +97,45 @@ I, **[Your Full Name]**, of **[Your Address]**, am writing to exercise my **righ
   - **Any other communications** where my personal data is mentioned or shared.
 
 ---
+---
 
-### **7. Access Logs and Records of Data Processing**
+### **7. All Calls and Interactions with Security Companies (e.g., PhoneWatch)**
+- **Full records of all interactions** between **Garda Síochána and private security companies** (e.g., PhoneWatch, other alarm monitoring services) regarding **my address or property**, including:
+  - **All alarm activations** at my address, regardless of whether a Garda response was requested.
+  - **All calls or notifications** received from security companies about alarms at my property, including:
+    - **Timestamps** of each call/notification.
+    - **Confirmation** if the security company requested Garda dispatch.
+    - **Names and contact details** of security company representatives involved.
+  - **All records of Garda dispatch requests** from security companies, including:
+    - **Confirmation** if Garda dispatch was requested by the security company.
+    - **Timestamps** of dispatch requests.
+    - **Names and ranks of Garda officers** who processed the dispatch request.
+    - **Timestamps** of when Garda officers were dispatched to my address.
+    - **Outcomes** of each interaction (e.g., false alarm, Garda attendance, no attendance, incident logged).
+  - **All Garda reports or notes** generated as a result of security company interactions.
+
+---
+---
+
+### **8. Access Logs and Records of Data Processing**
 - **All logs, audit trails, or records** of:
   - Who accessed my data, when, and for what purpose (e.g., read, amend, delete, share).
-  - Any disclosures or sharing of my data with third parties (e.g., other law enforcement agencies, courts, or external organizations).
+  - Any disclosures or sharing of my data with third parties (e.g., other law enforcement agencies, courts, security companies, or external organizations).
   - Dates and times my data was accessed, modified, or deleted across **all stations, offices, or systems** in ROI.
 
 ---
-### **8. All References to Me in Third-Party Records**
+---
+
+### **9. All References to Me in Third-Party Records**
 - **Any other records where my name or personal data appears**, including:
   - **Witness statements or reports** involving me.
   - **Intelligence reports, notes, or databases** referencing me.
   - **Communications** (e.g., emails, letters, internal memos) where my data is mentioned.
 
 ---
-### **9. Data Processing Information**
+---
+
+### **10. Data Processing Information**
 Under GDPR, I am also entitled to the following information:
 - The **purpose** for which my data is being processed.
 - The **categories of data** processed (e.g., biometric, financial, biographical).
@@ -110,20 +144,26 @@ Under GDPR, I am also entitled to the following information:
 - Details of any **automated decision-making** (e.g., profiling) and the logic involved.
 
 ---
-### **10. Format of Disclosure**
+---
+
+### **11. Format of Disclosure**
 I request that my data be provided to me:
 - In a **permanent, intelligible, and accessible format** (e.g., PDF or printed copy).
 - In **both electronic and hard copy** (if applicable).
 - **Without undue delay** and, in any event, within **one month** of receipt of this request (as per GDPR).
 
 ---
-### **11. Proof of Identity**
+---
+
+### **12. Proof of Identity**
 To ensure the security of my data, I have attached **two forms of identification** as proof of my identity:
 1. **[Type of ID, e.g., Passport]** with number **[ID Number]** and expiry date **[Date]**.
 2. **[Type of ID, e.g., Driver’s License]** with number **[ID Number]** and expiry date **[Date]**.
 
 ---
-### **12. Contact Information**
+---
+
+### **13. Contact Information**
 You may contact me at:
 - **Email:** [Your Email]
 - **Phone:** [Your Phone Number]
@@ -132,7 +172,9 @@ You may contact me at:
 I am available to discuss this request or provide further clarification if needed.
 
 ---
-### **13. Right to Complain**
+---
+
+### **14. Right to Complain**
 If you do not comply fully with this request, I reserve the right to lodge a complaint with the **Data Protection Commission (DPC)** at:
 [Data Protection Commission](https://www.dataprotection.ie)
 Canal House
@@ -160,4 +202,4 @@ Ireland
 - **Follow-up:** If you do not receive a response within **one month**, follow up with the DPC.
 
 ---
-Would you like me to tailor this further for a specific case or incident? For example, if you have a case number, reference to a particular station, or other unique details, we can refine it further.
+Would you like me to adapt this letter further for a specific case, incident, or location? For example, if you have a unique identifier (e.g., case number, specific station, or security company), we can refine it further.
